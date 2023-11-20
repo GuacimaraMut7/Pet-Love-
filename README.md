@@ -1,12 +1,13 @@
 # Pet-Love-
 
-## Table of Contents
+## Table of Contents (Tablas de contenido)
 
-- [About the Project](#about-the-project)
-- [Problem Statement](#Problem-Statement)
-- [Features](#features)
-- [Database Schema](#Database-Schema)
-- [Team](#team)
+- [About the Project](#about-the-project)  - [Sobre el proyecto]
+- [Problem Statement](#Problem-Statement)  - [Planteamiento del problema]
+
+- [Features](#features)                    - [Características]
+- [Database Schema](#Database-Schema)      - [Esquema de base de datos]
+- [Team](#team)                            - - [Equipo]
 
 <!-- ABOUT THE PROJECT -->
 

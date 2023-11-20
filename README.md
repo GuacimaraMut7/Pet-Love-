@@ -10,7 +10,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## Problem Statement
+## Problem Statement (Planteamiento del problema)
 
 1. In today's context, a rising number of pet owners treat their pets as family members, mirroring the care given to children.
 (En el contexto actual, un número creciente de dueños de mascotas trata a sus animales como miembros de la familia, reflejando el cuidado dado a los niños.)

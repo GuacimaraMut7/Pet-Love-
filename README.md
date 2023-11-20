@@ -1,5 +1,35 @@
 # Pet-Love-
 
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Problem Statement](#Problem-Statement)
+- [Features](#features)
+- [Database Schema](#Database-Schema)
+- [Team](#team)
+
+<!-- ABOUT THE PROJECT -->
+
+## Problem Statement
+
+1. In today's context, a rising number of pet owners treat their pets as family members, mirroring the care given to children.
+(En el contexto actual, un número creciente de dueños de mascotas trata a sus animales como miembros de la familia, reflejando el cuidado dado a los niños.)
+2. Pet care has evolved to encompass a wide range of concerns, from vaccinations and grooming to nutrition and entertainment.
+(El cuidado de las mascotas ha evolucionado para abarcar una amplia gama de preocupaciones, desde vacunación y aseo hasta nutrición y entretenimiento.)
+3. Factors such as urbanization, increased disposable incomes, and the prevalence of nuclear families are contributing to a surge in pet adoption.
+(Factores como la urbanización, el aumento de ingresos disponibles y la prevalencia de familias nucleares están contribuyendo a un aumento en la adopción de mascotas.)
+4. The traditional role of pets has shifted, especially in urban areas, where they are now considered companions and integral members of households.
+(El papel tradicional de las mascotas ha cambiado, especialmente en áreas urbanas, donde ahora se consideran compañeros y miembros integrales de los hogares.)
+5. Younger couples are increasingly adopting various pets, including dogs, cats, fish, rabbits, hamsters, and more.
+(Parejas más jóvenes adoptan cada vez más diversas mascotas, como perros, gatos, peces, conejos, hámsters y más.)
+6. Despite the presence of numerous stray animals, there is currently no centralized platform connecting them with potential adoptive parents.
+(A pesar de la presencia de numerosos animales callejeros, actualmente no hay una plataforma centralizada que los conecte con posibles padres adoptivos.)
+7. NGOs and individuals use social media to highlight animals in need, but the adoption process could be streamlined through the use of an app like PETLOVE.
+(ONG y personas utilizan las redes sociales para destacar animales que necesitan ayuda, pero el proceso de adopción podría simplificarse mediante una aplicación como PETLOVE)
+8. PETLOVE would serve as a convenient platform for individuals to post about adoptable animals, simplifying the adoption process and ensuring better matches between animals and caring individuals.
+( PETLOVE serviría como una plataforma conveniente para que las personas publiquen sobre animales adoptables, simplificando el proceso de adopción y asegurando mejores coincidencias entre los animales y personas cariñosas.)
+
+
 
 This is a upcoming project for building a application for pets and users, it would be like a social network for pets with all the services destro of the Application, hire caregivers, smugglers, trainers, there will be a job portal for everyone and users can hire, also the profiles will work as tinder by location, and will have the view similar to a Facebook with events for pets also‌‌.
 
